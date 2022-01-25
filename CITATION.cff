@@ -1,0 +1,27 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Sistema Hospitalar MEDS
+authors:
+  - family-names: Lima de Souza
+    given-names: Gabriel 
+  - family-names: Pinto Viana Filho
+    given-names: Marcus Vinicius  
+  - family-names: de Souza 
+    given-names: Gabriel 
+  - family-names: Ney Martins Filho
+    given-names: Tarcísio 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Dias Ferreira da Rocha
+    given-names: Roberto Felipe 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel 
+keywords:
+  - Gestão
+  - Hospitalar
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/PLF-ES-2021-2-TI1-7924100-sistema-hospitalar
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-12-22
